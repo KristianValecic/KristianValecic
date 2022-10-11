@@ -1,5 +1,5 @@
 # Kristian Valecic
-*Bla bla quick bio*
+I'm an aspiring software developer studying at Algebra university. All projects are built . 
 
 
 
@@ -14,7 +14,8 @@
 <img align="left" alt="css3" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
 <br><br><br>
-### Currently studying
+
+### Currently learning
 
 <img align="left" alt="android" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
 <img align="left" alt="android studio" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
@@ -32,12 +33,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 
+- 🌱 
+- 👯 
+- 🤔 
+- 💬 
+- 📫
+- 😄 
+- ⚡
 -->
