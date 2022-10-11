@@ -27,10 +27,6 @@ I'm an aspiring software developer studying at Algebra university. All projects 
 ### 📫 How to reach me: kristian.valecic@gmail.com
 
 <!--
-**KristianValecic/KristianValecic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 
 - 🌱 
 - 👯 
