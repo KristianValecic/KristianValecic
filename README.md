@@ -1,7 +1,7 @@
 # Kristian Valecic
 *Bla bla quick bio*
 
-<table style="border: 1px solid black"> 
+<table style="table{border: 1px solid black}"> 
 <td>
 
 
