@@ -1,5 +1,5 @@
 # Kristian Valecic
-I'm an aspiring software developer studying at Algebra university. All projects are built . 
+I'm an aspiring software developer studying at Algebra university. All projects are built by me for school, university and personal interests.
 
 
 
