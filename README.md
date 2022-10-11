@@ -1,6 +1,9 @@
 # Kristian Valecic
+*Bla bla quick bio*
 
 ### Hi there 👋
+
+📫 How to reach me: ...
 
 <!--
 **KristianValecic/KristianValecic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
