@@ -18,7 +18,7 @@ I'm an aspiring software developer studying at Algebra university. All projects 
 
 
 ### Tools
-# dsakds
+dsakds
 
 <img align="left" alt="android studio" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="intellij" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
