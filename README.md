@@ -10,7 +10,7 @@ I'm an aspiring software developer studying at Algebra university. All projects 
 <img align="left" alt="c plsuplus" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <!-- <img align="left" alt="microsoft sql server" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" /> <i class="devicon-microsoftsqlserver-plain-wordmark"></i>-->
 <img align="left" alt="kotlin" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-
+(for android)
 <br><br><br>
 
 ### Frameworks
