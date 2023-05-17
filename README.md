@@ -1,7 +1,7 @@
 # Kristian Valecic
 I'm an aspiring software developer studying at Algebra university. All projects are built by me for school, university and personal interests.
 
-
+The list below shows all the technologies and tools i have worked or made, at least one app with.
 ### Languages
 
 <img align="left" alt="Java" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
