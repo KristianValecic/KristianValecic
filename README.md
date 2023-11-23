@@ -38,6 +38,8 @@ The list below shows all the technologies and tools i have worked or made, at le
 
 ### How to reach me:
  📫 kristian.valecic@gmail.com
+
+<!--
 - 🔭 
 - 🌱 
 - 👯 
