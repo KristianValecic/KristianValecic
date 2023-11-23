@@ -36,9 +36,8 @@ The list below shows all the technologies and tools i have worked or made, at le
 <!-- ### Currently learning -->
 <br><br><br>
 
-### 📫 How to reach me: kristian.valecic@gmail.com
-
-<!--
+### How to reach me:
+ 📫 kristian.valecic@gmail.com
 - 🔭 
 - 🌱 
 - 👯 
